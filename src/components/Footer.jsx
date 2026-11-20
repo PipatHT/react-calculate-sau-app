@@ -3,7 +3,7 @@ export default function Footer() {
     <>
         <div className="flex justify-center font-itim text-gray-500">
             © 2024 Calculate Tools Online. All rights reserved.
-            Created Thanyachanok SAU.
+            Created Pipat SAU.
         </div>
     </>
   )
